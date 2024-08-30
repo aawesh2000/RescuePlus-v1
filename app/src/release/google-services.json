@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56192172349",
+    "project_id": "btech-rescueplus",
+    "storage_bucket": "btech-rescueplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56192172349:android:7d20867d1ad85ac55bc554",
+        "android_client_info": {
+          "package_name": "com.example.btechrescueplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56192172349-cvhfltstt53c6j490t3h12kicp6ro8gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrk4n3JE_Es4LdFirwulDulO9wibeVbPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56192172349-cvhfltstt53c6j490t3h12kicp6ro8gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
